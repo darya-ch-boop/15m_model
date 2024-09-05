@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
     # Prepare data
     data, scaler = prepare_dataset(symbols)
-    exit()
+
     print(f"Data: {data}")
     print(f"Scaler: {scaler}")
 
